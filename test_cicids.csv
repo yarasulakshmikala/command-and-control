@@ -1,0 +1,6 @@
+Flow Duration,Total Fwd Packets,Total Backward Packets,Flow Bytes/s,Flow Packets/s,Label
+120000,10,8,5000,40,BENIGN
+300000,5,3,200,10,Bot
+500000,3,2,100,8,FTP-Patator
+620000,7,5,190,15,PortScan
+150000,20,18,8000,120,BENIGN

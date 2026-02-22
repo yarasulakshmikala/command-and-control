@@ -1,0 +1,11 @@
+Flow Duration,Total Fwd Packets,Total Backward Packets,Flow Bytes/s,Flow Packets/s,Label
+120000,10,8,5000,150,Normal
+300000,2,1,200,20,Bot
+150000,12,10,7000,180,Normal
+400000,3,2,300,25,Bot
+100000,15,14,9000,200,Normal
+500000,1,1,150,10,Bot
+130000,11,9,6500,170,Normal
+420000,2,2,250,22,Bot
+110000,14,13,8500,190,Normal
+480000,1,1,180,12,Bot
